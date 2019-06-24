@@ -1,5 +1,6 @@
 ### 一，真实点,直接上图吧。
-[github地址](https://github.com/luhenchang/flutter_time_axis)
+[github地址](https://github.com/luhenchang/flutter_time_axis) 
+[视频教学地址](https://member.bilibili.com/v2#/upload-manager/article)  
 ![](https://user-gold-cdn.xitu.io/2019/6/24/16b87f5b67e6644e?w=2880&h=1636&f=png&s=2132827)
 
 > `1.位置，上图可见,时间轴可以在左边，也可以在中间，当然了可以在任何位置。`  
